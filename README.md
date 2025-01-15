@@ -1,7 +1,5 @@
 # Topic-Modelling-Customer-Feedback
 
-Applying NLP for topic modelling in a real-life context to understand the factors influencing member reviews and scores, particularly aiming to identify what prompts negative feedback and how to leverage this information.
-
 # Business Context
 
 The HealthyGym Group has approximately 2 million members and 600 gyms across the world (particularly in the UK, Denmark, and Switzerland). As one of the world’s largest value fitness operators, HealthyGym appeals to a broad range of customers by offering high-quality, low-cost, and flexible fitness facilities. The company’s customer-centric proposition – affordable membership fees, no fixed-term contracts, and 24/7 access to high-quality gyms – differentiates it from more traditional gyms and elevates it as a market leader within this space. 
