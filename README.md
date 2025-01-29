@@ -1,4 +1,4 @@
-# Topic-Modelling-Customer-Feedback
+# Topic Modelling Customer Feedback
 
 # Business Context
 
@@ -8,6 +8,7 @@ This focus on the customer is centred on wanting to understand what motivates me
 
 With the shift in focus to value-for-money memberships across the gym industry, HealthyGym seeks to achieve its mission of ‘inspiring a healthier world by providing members with affordable access to the benefits being healthy can offer’. 
 
+# Objective
 HealthyGym aims to understand the factors influencing member reviews and scores, particularly aiming to identify what prompts negative feedback and how to leverage this information. They seek actionable insights to enhance member satisfaction. For this task, you will apply NLP techniques to analyse the reviews.
 
 Temporal and spatial characteristics play a significant role in understanding user behaviour. Transforming the data into a time-series format and employing reverse geolocation lookups to visualise patterns can reveal valuable insights. For instance, if the data overlaps during specific time periods or if clusters of gyms in densely populated areas consistently receive negative reviews, this information will enhance our understanding of negative feedback. Due to time constraints, the above mentioned aspects will not be formally investigated as a part of this project activity. You are, however, encouraged to explore this as self-study. 
